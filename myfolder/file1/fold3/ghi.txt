@@ -1,1 +1,1 @@
-hi azka ghi
+This is ghi.txt
